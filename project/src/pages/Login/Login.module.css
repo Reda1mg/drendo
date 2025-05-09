@@ -1,0 +1,33 @@
+.loginForm {
+    max-width: 400px;
+    margin: auto;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: #f9f9f9;
+  }
+  
+  .loginForm h2 {
+    text-align: center;
+  }
+  
+  .loginForm div {
+    margin-bottom: 1rem;
+  }
+  
+  .loginForm label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .loginForm input {
+    width: 100%;
+    padding: 0.5rem;
+    box-sizing: border-box;
+  }
+  
+  .loginForm .error {
+    color: red;
+    text-align: center;
+  }
+  
